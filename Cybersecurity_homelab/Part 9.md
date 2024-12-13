@@ -216,3 +216,16 @@ After entering the interactive mode, input the desired object to inspect.
 2. Object 3 with Object 28:
   - Object 3 defines a behavior tied to `/AA` that invokes Object 28.
   - Object 28 executes shell commands via `cmd.exe`, attempting to open `README.pdf` across common user directories. This serves as a potential trigger mechanism for executing malicious payloads.
+
+---
+
+## Summary
+Now, after completing this comprehensive cybersecurity project, we reflect on the journey that has shaped my understanding and skills.
+
+We began by deploying a pfSense firewall to protect the network perimeter, ensuring that our infrastructure was well-guarded from external threats. Then, we moved on to setting up Active Directory and Group Policy Objects (GPOs) on Windows Server 2019, creating a solid foundation for managing users and permissions. Following this, we configured an Ubuntu server and installed DVWA to simulate a vulnerable web application for practical testing and training.
+
+Our next step was building a robust corporate WAN, during which we set up Kali Linux to perform attacks on our DVWA web server for security testing. Following that, we installed and configured Security Onion to monitor network traffic and detect suspicious activities. To further enhance our defenses, we implemented Host Intrusion Detection Systems (HIDS) using Wazuh on our Active Directory machines and set up a Network Intrusion Detection System (NIDS) for the DVWA web server using Snort and Splunk, ensuring comprehensive monitoring of both host and network activities.
+
+On the malware analysis side, I learned and applied static analysis techniques with FLARE VM and REMnux to investigate potentially malicious files, enhancing my ability to identify and analyze threats.
+
+This project has been an essential step in developing my cybersecurity skills, and I hope it serves as just the beginning of my journey in the field, with many more challenges and opportunities ahead.
