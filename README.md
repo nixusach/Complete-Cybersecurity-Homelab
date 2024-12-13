@@ -99,12 +99,12 @@ The final step is to create these VLANs in VMware (or your preferred virtualizat
 
 After configuration, the setup should resemble the following image:
 
-![Network Config](Cybersecurity_homelab/images/intro/Intro1.png)
+![Network Config](Cybersecurity_homelab/images/Intro/intro1.png)
 
 ### Topology
 This is how our topology should look now, after VLAN segmentation and device separation by VLANs/subnets.
 
-![Network](Cybersecurity_homelab/images/intro/Intro2.png)
+![Network](Cybersecurity_homelab/images/Intro/intro2.png)
 
 ---
 
