@@ -99,18 +99,15 @@ The final step is to create these VLANs in VMware (or your preferred virtualizat
 
 After configuration, the setup should resemble the following image:
 
-![Network Config](Cybersecurity_homelab/images/intro/intro1.png)
+![Network Config](Cybersecurity_homelab/images/intro/Intro1.png)
 
 ### Topology
 This is how our topology should look now, after VLAN segmentation and device separation by VLANs/subnets.
 
-![Network](Cybersecurity_homelab/images/intro/intro2.png)
+![Network](Cybersecurity_homelab/images/intro/Intro2.png)
 
 ---
 
 ## Conclusion
 
 So far, we’ve successfully created the VLANs for our network, assigned subnets, and established a clear network topology for the homelab. This foundational setup ensures that each part of our environment operates independently, providing the security and flexibility needed for the next steps. But this is just the beginning – the next phase will involve configuring our firewall, setting up virtual machines, and diving deeper into the specific security tools and processes that will form the core of this blue team lab.
-"# Complete-Cybersecurity-Homelab" 
-"# Complete-Cybersecurity-Homelab" 
-"# Complete-Cybersecurity-Homelab" 
