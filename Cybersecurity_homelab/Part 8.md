@@ -1,4 +1,4 @@
-# Part 8: Malware Static Analysis Using FLARE VM
+# Part 9: Static Analysis of an Executable File Using Flare VM
 
 ## Setting Up Your Malware Analysis Environment
 
