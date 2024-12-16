@@ -36,7 +36,7 @@ To create a comprehensive learning experience, I structured my homelab to encomp
    To monitor my network, I implemented Snort IDS with its default rules to detect attacks on the DVWA web server. Additionally, I created custom rules to identify undetected threats. To complete the SIEM solution, I integrated Snort with Splunk, enabling centralized event visualization, advanced searching, correlation, and alerting. This setup helps me quickly identify and respond to attacks targeting my web server.
    
 ### 8. **Malware Analysis Lab**
-   Recognizing malware as a significant threat, I created an isolated environment for malware analysis using Flare VM and REMnux. This lab enables me to conduct both static and dynamic analysis of malware samples, including executable and PDF files, in a secure environment. These skills are invaluable for professional cybersecurity roles and personal awareness of malware threats.
+   Recognizing malware as a significant threat, I created an isolated environment for malware analysis using Flare VM and REMnux. This lab enabled me to perform static analysis on two malware samples: an executable file and a PDF file, in a secure environment. These skills are invaluable for professional cybersecurity roles and personal awareness of malware threats.
 
 ---
 
