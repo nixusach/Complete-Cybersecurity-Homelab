@@ -159,7 +159,7 @@ After entering the interactive mode, input the desired object to inspect.
 
 #### Observations from peepdf Analysis
 
-**1. Binary Analysis **
+**1. Binary Analysis**
 
   ![remnux](images/MA/re11.png)
   
