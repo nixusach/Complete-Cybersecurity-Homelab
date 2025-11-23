@@ -10,7 +10,7 @@ Now, we will use a tool from Security Onion called **Wazuh**.
 
 ---
 
-## Conigure Static Routing
+## Configure Static Routing
 To enable endpoint devices in Active Directory to route traffic through the Domain Controller (DC) and establish communication with the SIEM (Security Onion), we need to set up static routing on the Domain Controller :
 - Open **Server Manager** > **Tools** > **Routing and Remote Access**. 
 - Right-click your server and select **Configure and Enable Routing and Remote Access**, choosing **LAN Routing**.
